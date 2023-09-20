@@ -1,31 +1,31 @@
-import { watchFile, unwatchFile } from 'fs'
-import chalk from 'chalk'
-import fs from 'fs'
-import { fileURLToPath } from 'url'
+  importazione    { watchFile,  unwatchFile }   da   "fs"
+  importazione chalk from    "gesso"
+  importazione fs from    "fs"
+  importazione    { fileURLToPath }   da   "url"
 
-global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  //['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+globale.proprietario     =     [
+  [3492670189,  " , ~vero],
+  [xxxxx,],
+  //['xxxxxxx'], 
+  [xxxxx,],
+  [xxxxx],
+  [xxxxx],
 ] //Numero degli owner
 
-//════════════ •⊰✧⊱• ════════════
+/ • • • 
 
-global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+globale.Mod   =   [xxxxx] 
+globale.Prems    =    [xxxxx xxxxx]
 
-//════════════ •⊰✧⊱• ════════════
+/ • • • 
 
-global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
+globale.KeysZen    =    ["C2459dB922"  ,    37 CC845916, "6fb0eff124"]
 // 'fiktod' 'BF39D349845E' '675e34de8a' '0b917b905e6f'
-global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
-global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
-global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
-global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
-global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
+globale.Keysxxx = keysZen[Mata.pavimento(KeysZen.Lunghezza  * matematica.random())]
+globale.Keysxteammm   =   ["29d4b59aa687ca" ,   "5LTV57azwaid7dXfz5fzJu" ,   'cb15ed422c71a2fb'  ,    '5bd33b276d41d6b4'  ,    'HIRO'  ,    'kurrxd09'  ,    'ebb6251cc00f9c63']
+globale.Keysxteam = keysxteammm[Mata.pavimento(keysxteammm.Lunghezza   * matematica. random())]
+globale.Keysneoxrrr    =    ["5VC9rvNx"  ,    "cfALv5"]
+globale.Keysneoxr = keysneoxrrr[Mata.pavimento(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['BrunoSobrino']
 
 global.APIs = { 
