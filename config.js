@@ -10,7 +10,7 @@ global.owner = [
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
-] //Numero degli owner
+] //Numero degli owner 3492670189
 
 //════════════ •⊰✧⊱• ════════════
 
