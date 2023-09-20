@@ -1,72 +1,72 @@
-import { watchFile, unwatchFile } from 'fs'
-import chalk from 'chalk'
-import fs from 'fs'
-import { fileURLToPath } from 'url'
+        importazione          { watchFile,  unwatchFile }         da         "fs"
+        importazione chalk from          "gesso"
+        importazione fs from          "fs"
+        importazione          { fileURLToPath }         da         "URL"
 
-global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
-  ['xxxxxxxxxx',],
-  //['xxxxxxxxxx'],	
-  ['xxxxxxxxxx',],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+globale.proprietario             =             [
+  [ 3492670189     ,       ",  vero],
+  [xxxxx,],
+  ///['xxxxxxx'], 
+  [xxxxx,],
+  [xxxxx],
+  [xxxxx],
 ] //Numero degli owner
+3492670189
+/ • • • 
 
-//════════════ •⊰✧⊱• ════════════
+globale.Mod                    =                    [3492670189] 
+globale.Prems                    =                    [xxxxx xxxxx]
 
-global.mods = ['xxxxxxxxxx'] 
-global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
+/ • • • 
 
-//════════════ •⊰✧⊱• ════════════
-
-global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
+globale.KeysZen                  =                  ["C2459dB922"               ,                 37 CC845916, "6fb0eff124"]
 // 'fiktod' 'BF39D349845E' '675e34de8a' '0b917b905e6f'
-global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
-global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
-global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
-global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
-global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = ['BrunoSobrino']
+globale.Keysxxx = keysZen[Mata.pavimento(KeysZen.Lunghezza                  * matematica.                random())]
+globale.Keysxteammm                =                ["29d4b59aa687ca"             ,               "5LTV57azwaid7dXfz5fzJu"              ,                'cb15ed422c71a2fb'              ,                '5bd33b276d41d6b4'              ,                'HIRO'              ,                'kurrxd09'              ,                'ebb6251cc00f9c63']
+globale.Keysxteam = keysxteammm[Mata.pavimento(keysxteammm.Lunghezza                  * matematica.                random())]
+globale.Keysneoxrrr                =                ["5VC9rvNx"              ,                "cfALv5"]
+globale.Keysneoxr = keysneoxrrr[Mata.pavimento(keysneoxrrr.Lunghezza               * matematica.             random())]
+globale.Lolkey            =            [BrunoSobrino]
 
-global.APIs = { 
-  xteam: 'https://api.xteam.xyz', 
-  nrtm: 'https://fg-nrtm-nhie.onrender.com',
-  bg: 'http://bochil.ddns.net',
-  fgmods: 'https://api-fgmods.ddns.net',
-  dzx: 'https://api.dhamzxploit.my.id',
-  lol: 'https://api.lolhuman.xyz',
-  violetics: 'https://violetics.pw',
-  neoxr: 'https://api.neoxr.my.id',
-  zenzapis: 'https://zenzapis.xyz',
-  akuari: 'https://api.akuari.my.id',
-  akuari2: 'https://apimu.my.id',	
-  fgmods: 'https://api-fgmods.ddns.net'
+globale.Api            =            { 
+  xteam          :            'https://api.xteam.xyz'          ,            
+  NRTM        :          'https://fg-nrtm-nhie.onrender.com',
+  BG     :       'http://bochil.ddns.net',
+  fgmod    :      'https://api-fgmods.ddns.net',
+  Dzx    :      'https://api.dhamzxploit.my.id',
+  Lol :   'https://api.lolhuman.xyz',
+  violetici :   'https://violetics.pw',
+  neoxr:  'https://api.neoxr.my.id',
+  zenzapis:  'https://zenzapis.xyz',
+  Akuari:  'https://api.akuari.my.id',
+  Akuari2:  'https://apimu.my.id', 
+  fgmod:  'https://api-fgmods.ddns.net'
 },
-global.APIKeys = { 
-  'https://api.xteam.xyz': `${keysxteam}`,
-  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
-  'https://api.neoxr.my.id': `${keysneoxr}`,	
-  'https://violetics.pw': 'beta',
+globale.APIKeys  =  { 
+  'https://api.xteam.xyz':  `${Keysxteam}`,
+  'https://api.lolhuman.xyz':  "85faf717d0545d14074659ad",
+  'https://api.neoxr.my.id':  `${Keysneoxr}`, 
+  'https://violetics.pw':  "beta",
 }
 
 
-//⊱ ════════════ •⊰✧⊱• ════════════
-global.imagen1 = ['./media/menu1.jpg']
-global.imagen4 = fs.readFileSync('./bixbyvision16.png')
-//════════════ •⊰✧⊱• ════════════
+/ ••
+globale.imagen1  =  ['./media/menu1.jpg']
+globale.imagen4 = fs.readFileSync('./bixbyvision16.png')
+/ • • • 
 
-// Sticker WM
-global.packname = '𝐁𝐢𝐱𝐛𝐲𝐕𝐢𝐬𝐢𝐨𝐧𝐁𝐨𝐭'
-global.author = '𝐌𝐝'
+// Adesivo WM
+globale.nome  dell"
+globale.Autore  =  "
 
-//════════════ •⊰✧⊱• ════════════
+/ • • • 
 
-global.vs = '𝟏.𝟖'
+globale.vs  =  '".
 
-global.lb = 'ꪶ 𝐁𝐢𝐱𝐛𝐲 𝐕𝐢𝐬𝐢𝐨𝐧 ꫂ'
-global.lolibot = lb
+globale.lb  =  'ꪶ   ꫂ'
+global.Lolibot = lb
 
-global.dygp = 'https://chat.whatsapp.com/BHZDSUDHuwWEed4Ut8aeUQ' //grupo del bot
+global.Digp = 'https://chat.whatsapp.com/BHZDSUDHuwWEed4Ut8aeUQ' //grupo del bot
 
 global.nna = 'https://chat.whatsapp.com/BHZDSUDHuwWEed4Ut8aeUQ' //UPDATE
 
